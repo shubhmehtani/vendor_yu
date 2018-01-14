@@ -136,6 +136,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libfacenet-32.so:system/vendor/lib/libfacenet-32.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
